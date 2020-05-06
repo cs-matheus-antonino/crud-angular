@@ -1,0 +1,9 @@
+{
+  "products": [
+    {
+      "name": "MacBook pro",
+      "price": "11000",
+      "id": 1
+    }
+  ]
+}
