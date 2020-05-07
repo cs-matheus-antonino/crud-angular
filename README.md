@@ -10,9 +10,9 @@ Aplicação de CRUD feito com Angular. 👨‍💻
 
 <h3 align="center">
   <img alt="CRUD Angular" 
-    src="https://github.com/cs-matheus-antonino/crud-angular/blob/master/screenshots/home.PNG?raw=true" width="1000px"/>
+    src="./screenshots/home.PNG?raw=true" width="1000px"/>
   <img alt="CRUD Angular" 
-    src="https://github.com/cs-matheus-antonino/crud-angular/blob/master/screenshots/produtos.PNG?raw=true" width="1000px"/>
+    src="./screenshots/produtos.PNG?raw=true" width="1000px"/>
 </h3>
 
 ## ✅ Funcionalidades
