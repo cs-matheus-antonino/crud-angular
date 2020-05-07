@@ -6,6 +6,15 @@
 Aplicação de CRUD feito com Angular. 👨‍💻
 </p> 
 
+## 🎨 Telas
+
+<h3 align="center">
+  <img alt="CRUD Angular" 
+    src="https://github.com/cs-matheus-antonino/crud-angular/blob/master/screenshots/home.PNG?raw=true" width="1000px"/>
+  <img alt="CRUD Angular" 
+    src="https://github.com/cs-matheus-antonino/crud-angular/blob/master/screenshots/produtos.PNG?raw=true" width="1000px"/>
+</h3>
+
 ## ✅ Funcionalidades
 - Início
   - Tela de dashboard
@@ -17,12 +26,12 @@ Aplicação de CRUD feito com Angular. 👨‍💻
 
 ## 🧰 Ferramentas
 
-- [Angular](https://expo.io/)
-- [Angular Material](https://facebook.github.io/react-native/)
+- [Angular](https://angular.io/docs)
+- [Angular Material](https://material.angular.io/)
 
 ## 👩‍🏫 Como rodar localmente
 
--Clonando Projeto
+- Clonando Projeto
   - `git clone https://github.com/cs-matheus-antonino/crud-angular.git`;
   - `cd crud-angular`;
 - Rodando Front-end
